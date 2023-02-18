@@ -1,0 +1,86 @@
+#!/bin/sh
+
+rm -rf ~/.config/nemo/
+rm -rf ~/.config/cef_user_data/
+rm -rf ~/.config/goa-1.0/
+rm -rf ~/.config/dconf/
+rm -rf ~/.config/pulse/
+rm -rf ~/.config/neofetch/
+rm -rf ~/.config/Code/
+rm -rf ~/.config/darktable/
+rm -rf ~/.config/GIMP/
+rm -rf ~/.config/handlr/
+rm -rf ~/.config/ibus/
+rm -rf ~/.config/Insomnia/
+rm -rf ~/.config/jgit/
+rm -rf ~/.config/zoom.conf
+rm -rf ~/.config/zoomus.conf
+
+rm -rf ~/.cache/mesa_shader_cache
+rm -rf ~/.cache/thumbnails
+rm -rf ~/.cache/event-sound-cache*
+rm -rf ~/.cache/flatpak/
+rm -rf ~/.cache/libvirt/
+rm -rf ~/.cache/nvim/
+rm -rf ~/.cache/fontconfig/
+rm -rf ~/.cache/gstreamer-1.0/
+rm -rf ~/.cache/JNA/
+rm -rf ~/.cache/kitty/
+rm -rf ~/.cache/mesa_shader_cache/
+rm -rf ~/.cache/main.kts.compiled.cache/
+rm -rf ~/.cache/virt-manager/
+rm -rf ~/.cache/qtile/
+rm -rf ~/.cache/pip/
+rm -rf ~/.cache/yarn/
+rm -rf ~/.cache/ghcide
+rm -rf ~/.cache/zoom
+rm -rf ~/.cache/babl
+rm -rf ~/.cache/coursier
+rm -rf ~/.cache/darktable
+rm -rf ~/.cache/gegl-0.4
+rm -rf ~/.cache/gimp
+rm -rf ~/.cache/gmic
+rm -rf ~/.cache/gradle-completions
+rm -rf ~/.cache/qt_compose_cache_little_endian_fedora
+rm -rf ~/.cache/qtshadercache-x86_64-little_endian-lp64
+
+rm -rf ~/.local/state/nvim
+rm -rf ~/.local/state/wireplumber/
+
+rm -rf ~/.local/share/gegl-0.4
+rm -rf ~/.local/share/applications/
+rm -rf ~/.local/share/fish/fish_history
+rm -rf ~/.local/share/flatpak/
+rm -rf ~/.local/share/xorg/
+rm -rf ~/.local/share/qtile/
+rm -rf ~/.local/share/gvfs-metadata/
+rm -rf ~/.local/share/recently-used.xbel
+rm -rf ~/.local/share/.vivaldi_reporting_data
+
+rm -rf ~/.android/
+rm -rf ~/.pki/
+rm -rf ~/.npm/
+rm -rf ~/.w3m/
+rm -rf ~/.stack/
+
+rm -rf ~/.cabal/
+rm -rf ~/.zoom/
+rm -rf ~/.m2/
+rm -rf ~/.vscode/
+rm -rf ~/.sbt/
+rm -rf ~/.kube/
+rm -rf ~/.gradle/
+rm -rf ~/.ivy2/
+rm -rf ~/.g8/
+rm -rf ~/.docker/
+rm -rf ~/.sonarlint/
+rm -rf ~/.bash_history
+rm -rf ~/.python_history
+rm -rf ~/.serverauth.*
+rm -rf ~/.angular-config.json
+rm -rf ~/.node_repl_history
+rm -rf ~/.Xauthority
+rm -rf ~/.wget-hsts
+rm -rf ~/.testcontainers.properties
+rm -rf ~/.lesshst
+rm -rf ~/.mupdf.history
