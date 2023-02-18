@@ -2,5 +2,5 @@
 
 set CURRENT (status dirname)
 
-cp -rf "$CURRENT/../data/user-dirs.dirs" "~/.config"
-cp -rf "$CURRENT/../data/kora" "~/.local/bin"
+cp -rf "$CURRENT/../data/user-dirs.dirs" "$HOME/.config"
+cp -rf "$CURRENT/../data/kora" "$HOME/.local/bin"
